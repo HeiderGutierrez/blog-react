@@ -1,6 +1,6 @@
 import './assets/sass/main.scss';
 import "./App.scss";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import BlogPost from "./pages/BlogPost";
 import Header from "./components/Header";
@@ -10,7 +10,7 @@ import NotFound from "./pages/NotFound";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <HashRouter>
         <Header />
         <Routes>
           <Route path="/" Component={Home} />
@@ -18,7 +18,7 @@ function App() {
           <Route path='*' Component={NotFound} />
         </Routes>
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
