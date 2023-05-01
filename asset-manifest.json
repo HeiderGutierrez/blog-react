@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HeiderGutierrez/blog-react/static/css/main.815eb9a2.css",
-    "main.js": "/HeiderGutierrez/blog-react/static/js/main.fa62c1cc.js",
-    "static/js/787.a21c5bd4.chunk.js": "/HeiderGutierrez/blog-react/static/js/787.a21c5bd4.chunk.js",
-    "static/media/default.png": "/HeiderGutierrez/blog-react/static/media/default.6988980f46d4055ce61b.png",
-    "index.html": "/HeiderGutierrez/blog-react/index.html",
-    "main.815eb9a2.css.map": "/HeiderGutierrez/blog-react/static/css/main.815eb9a2.css.map",
-    "main.fa62c1cc.js.map": "/HeiderGutierrez/blog-react/static/js/main.fa62c1cc.js.map",
-    "787.a21c5bd4.chunk.js.map": "/HeiderGutierrez/blog-react/static/js/787.a21c5bd4.chunk.js.map"
+    "main.css": "/blog-react/static/css/main.815eb9a2.css",
+    "main.js": "/blog-react/static/js/main.b8998715.js",
+    "static/js/787.a21c5bd4.chunk.js": "/blog-react/static/js/787.a21c5bd4.chunk.js",
+    "static/media/default.png": "/blog-react/static/media/default.6988980f46d4055ce61b.png",
+    "index.html": "/blog-react/index.html",
+    "main.815eb9a2.css.map": "/blog-react/static/css/main.815eb9a2.css.map",
+    "main.b8998715.js.map": "/blog-react/static/js/main.b8998715.js.map",
+    "787.a21c5bd4.chunk.js.map": "/blog-react/static/js/787.a21c5bd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.815eb9a2.css",
-    "static/js/main.fa62c1cc.js"
+    "static/js/main.b8998715.js"
   ]
 }
